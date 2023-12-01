@@ -8,4 +8,4 @@
 <body>
 <p><h1><strong>Tudo Sobre o Natal</strong></h1></p>
 
-<p>O <em>natal</em> é um festival religioso 
+<p>O <em>natal</em> é um festival religioso comemorado no dia 25 de dezembro 

@@ -3,7 +3,9 @@
 <html lang = "pt-br">
 <head>
 <meta charset = "UTF-8">
+<title>Natal</title>
+</head>
+<body>
+<p><h1><strong>Tudo Sobre o Natal</strong></h1></p>
 
-<p><h1><strong>Natal</strong></h1></p>
-
-<p>O <em>natal</em> é uma data comemorativa do dia 25 de dezembro
+<p>O <em>natal</em> é um festival religioso 
